@@ -1,3 +1,3 @@
 # Edinburgh
 
-[Edit]()
+[Edit](https://github.com/DouglasUrner/UK-Places/blob/master/Edinburgh.md)
